@@ -1,0 +1,2 @@
+# rootkit
+This is a root kit which was created as part of a security course. Note that this was created for educational purposes only and is not intended for real use. This was used on a VM which was created solely for the purpose of this assignment. This rootkit was created as part of a security course to understand how malicious attackers can maintain root privileges after an attack, by overwriting one of the system calls, in this case the umask system call and adding a secret input which will elevate their privileges when used. 
